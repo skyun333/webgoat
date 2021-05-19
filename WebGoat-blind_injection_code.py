@@ -1,7 +1,7 @@
 import requests
 password = str()
 url = "http://localhost:8080/WebGoat/SqlInjectionAdvanced/challenge"
-cookie = {'JSESSIONID':'dtZmLyyRQDFAJpVRZnecI7vqy9pQPU2Aa3loMAZT'}
+cookie = {'JSESSIONID':'[쿠키값]'}
 
 password_length = 0
 print("finding password length...")
